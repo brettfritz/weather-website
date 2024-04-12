@@ -10,6 +10,12 @@ Upon loading the page, the user is greeted with a search bar for them to input a
 
 ![home page snip](<Screenshot 2024-04-11 220248.png>)
 
+## Links
+
+https://brettfritz.github.io/weather-website/
+
+https://github.com/brettfritz/weather-website
+
 ## Credits
 
 N/A
